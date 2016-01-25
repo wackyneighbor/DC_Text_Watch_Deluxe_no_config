@@ -1,5 +1,5 @@
-# DC_Text_Watch_Deluxe_no_config
-DC's Text Watch Deluxe for Pebble Time Round smartwatch
+#DC's Text Watch Deluxe
+for Pebble Time Round smartwatch
 * This is early version, with config.h rather than config.html for customizations
 * <a href="https://drive.google.com/uc?export=download&id=0B3fA-FAkWLGNNmduNFI1aXdfLTA">Download compiled PBW here.</a>  (Default black color scheme, with O' displayed before single digits.)
 * A <a href="https://github.com/wackyneighbor/DC_Text_Watch_Deluxe">more advanced version is under development</a>, that will enable settings to be changed with <a href="http://wackyneighbor.github.io/DC_Text_Watch_Deluxe/config.html?SinglePrefixType=2&ColorScheme=1&BackgroundColor1=00AAFF&TextLine1Color1=550000&TextLine2Color1=555500&TextLine3Color1=555500&TextDayColor1=5500AA&TextDateColor1=5500AA&TimeIndicatorColor1=FFFFAA&SunriseIndicatorColor1=000055&SunsetIndicatorColor1=000055&BackgroundColor2=FFAAAA&TextLine1Color2=AA5500&TextLine2Color2=FFFFFF&TextLine3Color2=FF00AA&TextDayColor2=FFFF00&TextDateColor2=0055FF&TimeIndicatorColor2=000000&SunriseIndicatorColor2=AAFFFF&SunsetIndicatorColor2=AAFFFF&BackgroundColor3=00AAFF&TextLine1Color3=550000&TextLine2Color3=555500&TextLine3Color3=555500&TextDayColor3=5500AA&TextDateColor3=5500AA&TimeIndicatorColor3=FFFFAA&SunriseIndicatorColor3=000055&SunsetIndicatorColor3=000055&return_to=https%3A//cloudpebble.net/ide/emulator/config%3F">a phone interface</a>, but it's not entirely working yet.
