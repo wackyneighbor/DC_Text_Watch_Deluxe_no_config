@@ -14,7 +14,7 @@ This is a variant of the "Sliding Time" text watch, with some significant enhanc
 *  Single digit times can be prefixed with O' (same line) or with "Oh" (on an extra line), or with neither.  (Setting is in the config.h file.)
 *  The day of the week is fully spelled out and shown in a large font below the time, with proper capitalization.
 *  The date has the month abbreviated for space concerns at bottom of screen.  The proper ordinal suffix is used (e.g. "1st" rather than "1"). 
-*  A subtle analog clock feature is incorporated.  A semicircle transverses the perimeter of the screen once a day, with midnight on the bottom and noon on top.  (Can be deactivated by setting indicator to match background color.)
+*  A subtle analog clock feature is incorporated.  A semicircle transverses the perimeter of the screen once a day, with midnight on the bottom and noon on top.
 *  Two subtle dots along the perimeter identify the sunrise and sunset times.  These are computed on the watch, not looked up from a webservice.  To do this, it must determine location from phone.  Sunrise & sunset indicator dots will not appear on screen until this has been completed successful.  (Attempt will be made every minute until first success, with updates requested every hour afterwards.)  Time zone is recorded along with location, as well as if daylight savings time is in affect or not.  If either of these changes, but location has not been updated (e.g. cellular connection updated time, but GPS is switched off), sunrise & sunset should auto-correct to approximate local time.
 *  Color of every element can be set individually in the config.h file.
 
